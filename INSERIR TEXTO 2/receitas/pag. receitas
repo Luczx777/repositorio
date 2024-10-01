@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página de Receitas</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f8f8;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        .recipe {
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            padding: 15px;
+            margin-bottom: 20px;
+        }
+        .recipe h2 {
+            margin: 0 0 10px;
+        }
+        .recipe p {
+            margin: 5px 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>Página de Receitas</h1>
+
+    <div class="recipe">
+        <h2>Título da Receita</h2>
+        <p><strong>Ingredientes:</strong> Ingrediente 1, Ingrediente 2, Ingrediente 3</p>
+        <p><strong>Modo de Preparo:</strong> Descrição do modo de preparo da receita.</p>
+    </div>
+
+    <div class="recipe">
+        <h2>Título da Receita</h2>
+        <p><strong>Ingredientes:</strong> Ingrediente 1, Ingrediente 2, Ingrediente 3</p>
+        <p><strong>Modo de Preparo:</strong> Descrição do modo de preparo da receita.</p>
+    </div>
+
+    <!-- Adicione mais receitas aqui -->
+    
+</body>
+</html>
